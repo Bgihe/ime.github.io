@@ -36,7 +36,7 @@
 
 <key>bundle-version</key>
 
-<string>1.0.1</string>
+<string>1.3.0</string>
 
 <key>kind</key>
 
@@ -44,7 +44,7 @@
 
 <key>title</key>
 
-<string>下载时提示是否安装改应用的应用名字</string>
+<string>i-Me APP</string>
 
 </dict>
 
